@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"></meta>     
+        <title>生日快樂</title>
+    </head>
+    <body>
+        <div>
+            <h1 style="color:powderblue;">
+                梁恩瑜生日快樂
+            </h1>
+            <p>
+                雖然升上高中之後不常在見面，但我依舊記得今天是你的生日呢
+            </p>
+            <p>
+                高中的這段期間總是會想起國中的歡言笑語呢
+            </p>
+            <p style="color:red">
+                _____________生日快樂______________
+            </p>
+            <span style="color:rgb(123, 157, 0)">祝  </span>
+            <span>趕快交到心目中的男朋友</span>
+            <br>
+            <span style="color:rgb(123, 157, 0)">祝</span>
+            <span>不會被當</span>
+            <br>
+            <span style="color:rgb(123, 157, 0)">祝</span>
+            <span>天天開心，成為下屆模聯社社長</span>
+            <br>
+            <p>P.S:抱歉才自學自己打網站沒有多久，這是我第一個架設的網站，有點簡單和我不會美編(哈哈)，但希望你喜歡 。</p>
+        </div>
+        <img src="C:\Users\USER\Music\Desktop\html\311509173_803129910740138_863974906456838085_n.jpg" width="1000"/>
+    </body>
+</html>
